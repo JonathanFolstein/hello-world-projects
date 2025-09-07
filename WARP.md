@@ -47,3 +47,21 @@
 - When dependencies are needed, clearly document installation steps
 - Include version information for language runtimes and tools
 - Prefer language standard libraries over external packages when possible
+
+## External Documentation References
+- **LangGraph Documentation**: https://langchain-ai.github.io/langgraph/
+  - Use this for the latest LangGraph patterns, APIs, and best practices
+  - Reference when creating LangGraph-based projects or workflows
+  - Fetch current documentation using curl when needed for specific implementations
+- **LangChain Documentation**: https://python.langchain.com/docs/
+  - Use for LangChain core concepts, chains, agents, and integrations
+  - Reference for building AI applications with language models
+  - Include examples of prompt engineering and model interactions
+- **Open WebUI Documentation**: https://docs.openwebui.com/
+  - Use for Open WebUI setup, configuration, and customization
+  - Reference for building web interfaces for AI models
+  - Include deployment patterns and integration examples
+- **Python 3.13 Documentation**: https://docs.python.org/3.13/
+  - Use for current Python syntax, built-in functions, and standard library
+  - Reference for latest language features and best practices
+  - Include examples of modern Python patterns and idioms
