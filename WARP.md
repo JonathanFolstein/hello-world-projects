@@ -7,6 +7,10 @@
 - **All file operations must be contained within the current project directory tree**
 - **When using terminal commands, always use relative paths or absolute paths within the project**
 - **Do not install global packages or modify system-wide settings**
+- **Always verify package names before installation (check for typosquatting)**
+- **Review generated code for unexpected system calls or network requests**
+- **Use virtual environments and containers when possible for isolation**
+- **Never execute code that requests elevated privileges without explicit user approval**
 
 ## Code Style & Standards
 - Always include clear, descriptive comments explaining what each section of code does
